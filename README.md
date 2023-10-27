@@ -1,5 +1,7 @@
 # Tp_IoT_2022_LoRa_Bluetooth
 
+Marc Barbier, Victor Robert--Jaunet
+
 ## 1. Client :
  
 ### 1. Récupération d'un paquet Mqtt sur test.mosquitto.org :  nomAP/ipaddr
